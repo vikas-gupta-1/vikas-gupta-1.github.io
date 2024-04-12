@@ -1,3 +1,22 @@
-theme: jekyll-theme-minimal
 title: VIKAS GUPTA
-description: Data Analyst
+logo: Vikas picture.jpeg
+description: >
+<br>
+Data Analyst
+<br>
+
+
+
+social_icons:
+  - url: "mailto:vikasgupta566@gmail.com"
+    icon: "envelope"
+    description: "Email"
+  - url: "https://www.linkedin.com/in/vikasgupta"
+    icon: "linkedin"
+    description: "LinkedIn"
+  - url: "tel:+919911641186"
+    icon: "phone"
+    description: "Phone"
+
+google_analytics: UA-123456789-1
+theme: jekyll-theme-minimal
