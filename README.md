@@ -1,4 +1,3 @@
-
 ## Work Experience
 
 **Kulture Hire**  
@@ -27,48 +26,45 @@ April 2019 - August 2023
 ## Projects
 
 - **Call Center analysis- PWC Virtual Internship**  
-  [Power BI Link](PwcPowerBiLink)  
+  [Power BI Link](PowerBILink)  
   January 2024  
   - Utilized Power BI to assess PWC's dataset, analyzing key metrics and demographic variations.
   - Identified an 86% customer churn rate, prompting trend analysis of call center satisfaction, revealing an average satisfaction rate of 3.40 customers.
 
 - **GenZ Analysis- Kulture Hire Internship**  
-  [SQL Link](GenZSqlLink)  
+  [SQL Link](SQLLink)  
   January 2024  
   - Conducted thorough data cleaning and transformation, achieving a data accuracy improvement of 98% by effectively addressing errors and filling missing values.
   - Identified 2 critical metrics: Diversity and Inclusion, shedding light on workforce dynamics.
   - Revealed significant impact of Social Media on career choices among GenZ, highlighting key influencer trends.
 
 - **Sales Analysis- Retail Domain**  
-  [Qlik Sense Link](RetailQlikSenseLink)  
+  [Qlik Sense Link](QlikSenseLink)  
   December 2023  
   - Developed a comprehensive dashboard highlighting sales trends and customer behavior in response to various discount strategies.
   - Enabled sellers to identify patterns and make informed decisions. Resulted in a 15% increase in revenue potential.
 
 - **Diabetes Prediction Analysis**  
-  [Python Link](DiabetesPythonLink)  
+  [Python Link](PythonLink)  
   November 2023  
   - Leveraged Python to identify distinct diabetes risk levels across various demographic groups, enhancing targeted healthcare interventions and resource allocation.
   - Achieved an accuracy rate of 76%, aiding in early detection and treatment planning for at-risk individuals.
 
 ## Education
 
-**Jagan Nath University**  
-Delhi  
-*MBA major in Finance, minor in Marketing*  
-2019  
-67.13%
+- **Jagan Nath University**  
+  Delhi 2019  
+  *MBA major in Finance, minor in Marketing*  
+  67.13%
 
-**AIMA**  
-Delhi  
-*PGDM major in Finance, minor in Marketing*  
-2018
+- **AIMA**  
+  Delhi 2018  
+  *PGDM major in Finance, minor in Marketing*
 
-**Bharati Vidyapeeth University**  
-Delhi  
-*BBA major in Finance*  
-2016  
-65.33%
+- **Bharati Vidyapeeth University**  
+  Delhi 2016  
+  *BBA major in Finance*  
+  65.33%
 
 ## Skills
 
@@ -80,5 +76,5 @@ Delhi
 
 ## Others
 
-- **Certification:** Python, SQL, Power BI from Great Learning, 5 star Hackerrank in SQL, MySQL, and Excel from Udemy, PWC Power BI virtual case experience, Data Analysis from Ybi Foundation.
+- **Certification:** Python, SQL, Power BI from Great Learning, 5-star Hackerrank in SQL, MySQL, and Excel from Udemy, PWC Power BI virtual case experience, Data Analysis from Ybi Foundation.
 - **Hobbies:** Swimming, Art, Volunteering, and Community involvement.
